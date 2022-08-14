@@ -1,4 +1,4 @@
 #Survey Form
 
-FCC firt porject
-Developing fcc servey form design
+FCC first project
+Developing fcc survey form design
